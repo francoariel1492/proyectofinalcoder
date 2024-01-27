@@ -1,0 +1,121 @@
+[
+  {
+    "id": 1,
+    "title": "Piano de Cola",
+    "description": "Elegancia y sonido clásico",
+    "price": 5000,
+    "thumbnail": "https://picsum.photos/200",
+    "code": "piano001",
+    "stock": 5,
+    "category": "Instrumentos de Teclado",
+    "status": true
+  },
+  {
+    "id": 2,
+    "title": "Batería Completa",
+    "description": "Perfecta para rock y jazz",
+    "price": 1500,
+    "thumbnail": "https://picsum.photos/200",
+    "code": "drums002",
+    "stock": 8,
+    "category": "Instrumentos de Percusión",
+    "status": true
+  },
+  {
+    "id": 3,
+    "title": "Violín Profesional",
+    "description": "Sonido melódico y expresivo",
+    "price": 1200,
+    "thumbnail": "https://picsum.photos/200",
+    "code": "violin003",
+    "stock": 12,
+    "category": "Instrumentos de Cuerda",
+    "status": true
+  },
+  {
+    "id": 4,
+    "title": "Micrófono de Estudio",
+    "description": "Captura cada detalle vocal",
+    "price": 299.99,
+    "thumbnail": "https://picsum.photos/200",
+    "code": "mic004",
+    "stock": 20,
+    "category": "Accesorios de Grabación",
+    "status": true
+  },
+  {
+    "id": 5,
+    "title": "Sintetizador Analógico",
+    "description": "Creación de sonidos únicos",
+    "price": 899.99,
+    "thumbnail": "https://picsum.photos/200",
+    "code": "synth005",
+    "stock": 7,
+    "category": "Instrumentos Electrónicos",
+    "status": true
+  },
+  {
+    "id": 7,
+    "title": "Trompeta de Jazz",
+    "description": "Brillante y potente",
+    "price": 699.99,
+    "thumbnail": "https://picsum.photos/200",
+    "code": "trumpet007",
+    "stock": 15,
+    "category": "Instrumentos de Viento",
+    "status": true
+  },
+  {
+    "id": 8,
+    "title": "Guitarra Acústica",
+    "description": "Perfecta para actuaciones íntimas",
+    "price": 799.99,
+    "thumbnail": "https://picsum.photos/200",
+    "code": "acoustic008",
+    "stock": 10,
+    "category": "Guitarras",
+    "status": true
+  },
+  {
+    "id": 12,
+    "title": "jojo",
+    "description": "Lorem Ipsum1",
+    "price": 1000,
+    "thumbnail": "https://picsum.photos/200",
+    "code": "guitar001",
+    "stock": 10,
+    "category": "guitars",
+    "status": true
+  },
+  {
+    "id": 13,
+    "title": "Flauta Travesera",
+    "description": "Dulce y melodiosa",
+    "price": 499.99,
+    "thumbnail": "https://picsum.photos/200",
+    "code": "flute013",
+    "stock": 10,
+    "category": "Instrumentos de Viento",
+    "status": true
+  },
+  {
+    "id": 14,
+    "title": "Amplificador de Bajo",
+    "description": "Potencia y claridad para bajistas",
+    "price": 599.99,
+    "thumbnail": "https://picsum.photos/200",
+    "code": "amp014",
+    "stock": 12,
+    "category": "Accesorios",
+    "status": true
+  },
+  {
+    "id": 15,
+    "title": "ibanez",
+    "description": "Lorem Ipsum3",
+    "price": 3000,
+    "thumbnail": "percus.com",
+    "code": "gorra",
+    "stock": 50
+  }
+]
